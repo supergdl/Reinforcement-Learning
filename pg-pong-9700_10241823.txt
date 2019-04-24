@@ -1,0 +1,10 @@
+Who got 21 wins the match
+average: running mean, average loss scores
+
+when average is negative, bad than the machine
+when average(running mea) is 0, good as the machine
+when average is positive, dominate the machine
+
+episodes 7500 - average -16 - rewards 21-16=5
+episodes 9000 - average -14 - rewards 21-14=7
+episodes 9700 - average -13 - rewards 21-13=8
